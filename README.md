@@ -1,2 +1,2 @@
 # tf_idf
-basics of Machine Learning
+a term frequency and inverse document frequency example code in python3 using numpy, sklearn
