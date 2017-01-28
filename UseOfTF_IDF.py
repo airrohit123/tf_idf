@@ -1,4 +1,4 @@
-#python 3
+#!/usr/bin/env python3.5
 import string
 import math
 import numpy as np
